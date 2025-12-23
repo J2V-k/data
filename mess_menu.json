@@ -1,0 +1,39 @@
+{
+  "menu": {
+    "Monday 15.12.25": {
+      "Breakfast": "Aloo Sandwich, Bread Jam, Tea, Milk, Fruit",
+      "Lunch": "Cabbage Aloo Matar, Urad Sabut Dal, Raita, Rice, Roti, Achar, Salad, Besan Ka Ladoo",
+      "Dinner": "Paneer Do Pyaja, Egg Curry, Moong Dal, Rice, Roti, Achar, Salad, Milk"
+    },
+    "Tuesday 16.12.25": {
+      "Breakfast": "Bread Pakoda, Green Chutney, Bread Jam, Tea, Milk, Fruit",
+      "Lunch": "Veg Chowmien, Fried Rice, Manchurian, Aloo Ki Sabji, Roti, Achar, Jalebi",
+      "Dinner": "Methi Aloo, Dal Fry, Rice, Roti, Achar, Salad, Milk"
+    },
+    "Wednesday 17.12.25": {
+      "Breakfast": "Upma - Daliya, Bread Jam, Tea, Fruit",
+      "Lunch": "Sarso Ka Saag, Chana Dal, Raita, Rice, Roti, Achar, Salad, Balu Shahi",
+      "Dinner": "Nutree Matar, Masoor Sabut Dal, Rice, Roti, Achar, Salad, Milk"
+    },
+    "Thursday 18.12.25": {
+      "Breakfast": "Stuff Parantha, Dahi, Achar, Bread Jam, Tea, Fruit",
+      "Lunch": "Mix Veg, Kadhi Pakoda, Rice, Roti, Achar, Salad, Atta Ka Ladoo",
+      "Dinner": "Palak Aloo, Rajma, Rice, Roti, Achar, Salad, Milk"
+    },
+    "Friday 19.12.25": {
+      "Breakfast": "Besan Ka Cheela, Chutney, Bread Jam, Tea, Milk, Fruit",
+      "Lunch": "Jeera Aloo, Dal Makhani, Raita, Rice, Roti, Achar, Salad, Khoye Ki Burfi",
+      "Dinner": "Baigan Ka Burtha, Arhar Dal, Rice, Roti, Achar, Salad, Milk"
+    },
+    "Saturday 20.12.25": {
+      "Breakfast": "Poha, Bread Butter Jam, Boiled Egg, Tea, Milk, Fruit",
+      "Lunch": "Chole, Dahi Bhalla, Veg Pulao, Kachori, Achar, Salad, Moong Dal Ka Halwa",
+      "Dinner": "Veg Kofta, Masoor Dal, Rice, Roti, Achar, Salad, Milk"
+    },
+    "Sunday 21.12.25": {
+      "Breakfast": "Methi Ka Thepla, Aloo Ki Sabji, Achar, Bread Jam, Tea, Milk, Fruit",
+      "Lunch": "Shimla Mirch Aloo, Dal Tadka, Raita, Rice, Roti, Achar, Salad, Boondi Ka Ladoo",
+      "Dinner": "Gajar Matar Aloo, Dal Darbari, Rice, Roti, Achar, Salad, Milk"
+    }
+  }
+}
