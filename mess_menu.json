@@ -1,39 +1,39 @@
 {
   "menu": {
-    "Monday 30.03.26": {
-      "Breakfast": "Macaroni, Bread Butter Jam, Tea, Milk, Fruit",
-      "Lunch": "Shimla Mirch Aloo, Masoor Sabut Dal, Raita, Rice, Roti, Achar, Salad, Besan Ki Burfi",
-      "Dinner": "Sabudana Khichdi, Chana Dal, Dahi, Rice, Roti, Achar, Salad"
+    "Monday 06.04.26": {
+      "Breakfast": "Aloo Sandwich, Bread Jam, Tea, Milk, Fruit",
+      "Lunch": "Beans Aloo, Dal Tadka, Rice, Roti, Achar, Salad, Kheer",
+      "Dinner": "Chole, Veg Fried Rice, Raita, Roti, Achar, Salad, Chutney"
     },
-    "Tuesday 31.03.26": {
-      "Breakfast": "Namkeen Semiya, Veg Sandwich, Bread Jam, Tea, Milk, Fruit",
-      "Lunch": "Lauki Tamatar, Rajma, Rice, Roti, Achar, Salad, Kheer",
-      "Dinner": "Veg Kofta, Arhar Dal, Rice, Roti, Achar, Salad, Milk"
+    "Tuesday 07.04.26": {
+      "Breakfast": "Poha, Bread Butter Jam, Tea, Milk, Fruit",
+      "Lunch": "Matar Paneer, Dal Muglai, Raita, Rice, Roti, Achar, Salad, Boondi",
+      "Dinner": "Spring Onion, Urad Sabut Dal, Rice, Roti, Achar, Salad, Milk"
     },
-    "Wednesday 01.04.26": {
-      "Breakfast": "Poha, Daliya, Bread Jam, Tea, Fruit",
-      "Lunch": "Methi Aloo, Kadhi Pakoda, Rice, Roti, Achar, Salad, Nariyal Ki Burfi",
-      "Dinner": "Kadai Paneer, Lobiya, Rice, Roti, Achar, Salad, Milk"
+    "Wednesday 08.04.26": {
+      "Breakfast": "Coleslaw Sandwich, Bread Omelette, Jam, Tea, Milk, Fruit",
+      "Lunch": "Cabbage Matar, Rajma, Raita, Rice, Roti, Achar, Salad, Besan Ki Burfi",
+      "Dinner": "Gatta Curry, Arhar Dal, Raita, Rice, Roti, Achar, Salad"
     },
-    "Thursday 02.04.26": {
-      "Breakfast": "Besan Ka Cheela, Chutney, Bread Jam, Tea, Milk, Fruit",
-      "Lunch": "Nutree Matar, Dal Muglai, Raita, Rice, Roti, Achar, Salad, Atta Ka Ladoo",
-      "Dinner": "Chole, Tahari, Raita, Roti, Achar, Salad, Chutney"
-    },
-    "Friday 03.04.26": {
-      "Breakfast": "Cocktail Sandwich, French Toast, Bread Jam, Tea, Milk, Fruit",
-      "Lunch": "Kadai Veg, Dal Fry, Raita, Rice, Roti, Achar, Salad, Khoye Ki Burfi",
-      "Dinner": "Aloo Masala Dry, Dal Tadka, Rice, Roti, Achar, Salad, Milk"
-    },
-    "Saturday 04.04.26": {
+    "Thursday 09.04.26": {
       "Breakfast": "Uttapam - Chutney, Bread Jam, Tea, Milk, Fruit",
-      "Lunch": "Kashmiri Dum Aloo, Veg Biryani, Raita, Roti, Achar, Salad, Chutney, Besan Ka Ladoo",
-      "Dinner": "Gobhi Matar, Masoor Dal, Rice, Roti, Achar, Salad, Milk"
+      "Lunch": "Aloo Pyaj, Kadhi Pakoda, Rice, Roti, Achar, Salad, Nariyal Ka Ladoo",
+      "Dinner": "Kathal Ki Sabji, Dal Fry, Jeera Rice, Roti, Achar, Salad, Green Chutney, Milk"
     },
-    "Sunday 05.04.26": {
-      "Breakfast": "Matar - Kulcha, Bread Jam, Tea, Milk, Fruit",
-      "Lunch": "Palak Ka Kofta, Arhar Dal, Raita, Rice, Roti, Achar, Salad, Shahi Tukda",
-      "Dinner": "Paneer Makhani, Egg Curry, Moong Dal, Rice, Roti, Achar, Salad, Milk"
+    "Friday 10.04.26": {
+      "Breakfast": "Macaroni, Bread Butter Jam, Tea, Milk, Fruit",
+      "Lunch": "White Matar, Kaddu, Raita, Rice, Roti, Achar, Salad, Halwa",
+      "Dinner": "Palak Paneer, Egg Curry, Mix Dal, Rice, Roti, Achar, Salad, Milk"
+    },
+    "Saturday 11.04.26": {
+      "Breakfast": "Cocktail Sandwich, Bread Jam, Tea, Milk, Fruit",
+      "Lunch": "Veg Kolhapuri, Dal Fry, Raita, Rice, Roti, Achar, Salad, Peda",
+      "Dinner": "Kashmiri Dum Aloo, Veg Biryani, Raita, Roti, Achar, Salad, Chutney"
+    },
+    "Sunday 12.04.26": {
+      "Breakfast": "Upma, Daliya, Bread Jam, Tea, Fruit",
+      "Lunch": "Aloo Matar, Dhaba Dal, Raita, Rice, Roti, Achar, Salad, Balu Shahi",
+      "Dinner": "Malai Kofta, Arhar Dal, Rice, Roti, Achar, Salad, Milk"
     }
   }
 }
